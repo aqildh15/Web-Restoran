@@ -1,0 +1,101 @@
+@media (min-width: 360px) {
+    body {
+    margin: auto 50px;
+    }
+    main table {
+    text-align: left;
+    font-size: 16px;
+    }
+
+.tab {
+    background-color: rgb(255, 216, 143);
+    }
+
+.form {
+    text-align: left;
+    }
+}
+
+.ind {
+    background-color: rgb(183, 253, 210);
+}
+
+.men {
+    background-color: rgb(253, 253, 227);
+}
+
+.con {
+    background-color: rgb(203, 255, 255);
+}
+
+header {
+    text-align: center;
+    align-items: center;
+}
+
+.logo {
+    width: 200px;
+}
+
+nav {
+    text-align: center;
+}
+
+nav a {
+    color: rgb(6, 92, 56);
+    text-decoration: none;
+}
+ nav a:hover {
+    color: brown;
+    font-size: larger;
+    background-color: azure;
+ }
+
+main {
+    text-align: center;
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.resto {
+    width: 400px;
+}
+
+.tagline {
+    font-weight: bold;
+    color: darkgreen;
+}
+
+.layan {
+    text-align: left;
+    margin-left: 14px;
+}
+
+.list {
+    text-align: justify;
+}
+
+footer {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 12px;
+    color: rgb(82, 2, 18);
+}
+
+footer a {
+    color: blue;
+    text-decoration: none;
+}
+
+footer a:hover {
+    color: purple;
+    font-size: larger;
+}
+
+footer a:visited {
+    color: blue;
+}
+
+.copy {
+    font-size: smaller;
+}
